@@ -6,4 +6,4 @@ Only words appear more than 3 times are kept and the model has 20,518,917 traina
 <em><b>BLEU score</b></em>: around 39<br>
 <em><b>Visualization</b> </em>of the result:<br>
 src is the input of French sentences and trg is the groud truth, and predicted_trg is the prediction. <br>
-<img align='center' style="border-color:gray;border-width:2px;border-style:dashed"  src="example.png" width = "700px" height="550px" ></img>
+<img align='center' style="border-color:gray;border-width:2px;border-style:dashed"  src="example.png" width = "800px" height="550px" ></img>
